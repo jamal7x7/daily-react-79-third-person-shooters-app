@@ -1,6 +1,6 @@
 ## Daily-react-79-third-person-shooters-app
 
-> Challenge: create an Third Person Shooter Game.
+> Challenge: create a Third Person Shooter Game.
 
 Work in progress: https://github.com/jamal7x7/daily-react-79-third-person-shooters-app
 
